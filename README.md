@@ -11,6 +11,10 @@ https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
 
 2. REST API Best Practices:
 https://www.freecodecamp.org/news/rest-api-best-practices-rest-endpoint-design-examples/
+
+3. Use of PUT vs PATCH: 
+https://stackoverflow.com/questions/28459418/use-of-put-vs-patch-methods-in-rest-api-real-life-scenarios
+
 #### Interview Questions 
 1. Theoretical Questions:
 
